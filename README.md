@@ -31,8 +31,3 @@ python -m http.server 8080
 ```
 Open **[http://localhost:8080/](http://localhost:8080/)** in your browser.
 
-## 🌐 Deploy to GitHub Pages (Live Rendering)
-To host this exactly like the example `bsi-docinfo` page:
-1. Create a **New Public Repository** on GitHub named `Team_Reference_Hub`.
-2. Push this local repository to GitHub.
-3. In your GitHub repository settings, go to **Pages**, select the **`main`** branch (or `gh-pages`) as the source, and click **Save**.
