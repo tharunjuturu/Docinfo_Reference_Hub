@@ -288,5 +288,895 @@
     "category": "VSM TestPlan",
     "title": "FSEE_AVN",
     "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01309&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "Mail - THARUN JUTURU (EXTERNAL) - Outlook",
+    "url": "https://outlook.office365.com/mail/"
+  },
+  {
+    "category": "Platform",
+    "title": "Translation",
+    "url": "https://stellantis.mysystran.com/en/translationTools/text"
+  },
+  {
+    "category": "Platform",
+    "title": "[CEREBRO] Home New Link",
+    "url": "http://10.149.0.149/"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_BE_GUIDED",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00116&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_BIG_DATA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01413&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_CONFORT_THERMIQUE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01173&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_CONNECTING_AND_MIRRORING",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01439&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_CVMODE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00373&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_DAA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01295&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_DAGMP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00120&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_DEFROST",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_02006&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_DEH",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01205&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_DESP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01049&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_ECLI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00202&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_ECOACH",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01280&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_EDR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00391&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_EEM_LV",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00271&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_EEM_VLV",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01615&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_EPB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00890&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_ESL",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00696&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_FAP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00709&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_GCT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00502&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_GIH",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00656&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_GSI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01281&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_HA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00282&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_HADC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00384&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_INFO",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01474&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_INFRA_EE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00178&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_INSTRUM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_02002&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_JGC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00826&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_LISTEN_AUDIO_MEDIA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00063&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_LISTEN_RADIO",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01377&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_MAINT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00029&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_MONTAGE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00583&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_OBD",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01171&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_ODB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01177&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_OFOARM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01324&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_OTA_Update",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01306&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_PARAM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00275&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_PCGA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01101&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_PHAB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01417&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_PHOT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00835&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_PICC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00757&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_PUCSM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00748&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_REMOTE_SERVICES",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00171&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_REPAS_HAB_NEA_NTW",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00728&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_REPAS_HAB_SEV",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00942&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_REPAS_SC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00940&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_RTAB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00332&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_RVM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00320&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_SBR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01348&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_SCPB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_20_01564&v=0.5"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_SCR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01322&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_SLI_ETSR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00594&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_S_AS",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01307&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_SUPERVISION",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_21_01299&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_TPMS",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01195&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_TSC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00734&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_TURNKEY_CPK4",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00870&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_ULTRASONIC_PERCEPTION",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/ref.01272_18_00562/v.vc/fiche"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_VISIO_PARK",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00692&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_VMC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00274&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_VOL",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00379&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_WL",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01004&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSE_ADV",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/ref.01272_19_01465/v.vc/fiche"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSE_AEBS",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01466&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSE_ISA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01472&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSE_RCTA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01474&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_CLIM_IHM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_02264&v=vc"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_TELEDIAG",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/ref.01272_23_01712/v.vc/fiche"
+  },
+  {
+    "category": "VSM TestPlan",
+    "title": "FSEE_LIGHTING",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_00920&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "Référentiel des Plans de Tests fonctionnels BSI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_04735&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "AAST",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_10_01984&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ACC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_04798&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ACPK",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_04405&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ACTI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_04737&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ACVCC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_13_05840&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "AFIL",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_05759&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "AGEE_TBT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_11_03684&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "AIRQ_PURIF",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_16_00126&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "AMVAR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_03407&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ANBC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_16_00088&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "AQEB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_16_01107&v=2.2"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ARMTH",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_03337&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "BIG_DATA_2010",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_02148&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "BV",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_03328&v=19.2"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "CMDM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_11_03732&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "CODE_UCE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_20_00072&v=0.7"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "Compteur Temporel (GCT)",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_02758&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "CONFORT_THERMIQUE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_05409&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "DAGMP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_10_00226&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "DESP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_03488&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "Délestage Tournant",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_00179&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ECLI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_10_02392&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "EDR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00289&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "EMOVE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_03329&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "EOBD",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_02145&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ESL",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_10_05014&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ESP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_04515&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "FAP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_05953&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "FREINER",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_05641&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "F_DCM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_05316&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "F_DEB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_05402&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "F_ECLX",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00182&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "F_MAINTENANCE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_06067&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "GSI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_10_00039&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "INFOGMP",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_04906&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "IRC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_16_01158&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "IVV",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_03893&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "JGC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_10_05038&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "LISTEN_AUDIO_MEDIA_2010",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_20_00166&v=0.6"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "MENU PERSO (PARAM)",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_03334&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "NIVEAU HUILE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_14_04647&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "ODB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_02589&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "OFOLAT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_13_05034&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "OTA_UPDATE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_20_00207&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "PHAB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_16_00023&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "PHOT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_00951&v=26.0"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "PICC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_06088&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "Pression d'huile",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_01511&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "PTCA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_12_04970&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "REPAS_HAB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_04972&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "REPAS_SC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_02451&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "RTAB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01243&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "SAM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_00704&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "SCPB",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_20_01239&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "SCR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01208&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "TEMPERATURE HUILE",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_01699&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "TSC",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_12_05131&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "XVV",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_15_05294&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "F_VTOR",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00949_13_05530&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "IBM Rational Change - Login",
+    "url": "http://yval7410.inetpsa.com:8600/gaele/"
+  },
+  {
+    "category": "Platform",
+    "title": "Live' in VFBL",
+    "url": "http://b885853/live%27inVFBL/news/index"
+  },
+  {
+    "category": "Platform",
+    "title": "Reflex",
+    "url": "http://reflex.inetpsa.com/"
+  },
+  {
+    "category": "Planning → SUIVI",
+    "title": "SPA_Suivi",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_22_00610&v=vc"
+  },
+  {
+    "category": "VSM",
+    "title": "KPI Requirements",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_21_01574&v=vc"
+  },
+  {
+    "category": "Planning",
+    "title": "Global KPI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_20_02392&v=vc"
+  },
+  {
+    "category": "Planning",
+    "title": "Checklist Proofreading(DC Review)",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_22_01125&v=vc"
+  },
+  {
+    "category": "Planning",
+    "title": "Global KPI DNF",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01843_22_00377&v=6.0"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "Incoming reading activity list",
+    "url": "http://cerebro.inetpsa.com/incoming-reading-activity-list"
+  },
+  {
+    "category": "Platform",
+    "title": "My IT Portal(Docinfo_unlock_init)",
+    "url": "https://it-portal.psa-cloud.com/?question=docinfo_unlock_init"
+  },
+  {
+    "category": "Platform",
+    "title": "Osaca",
+    "url": "http://osaca.inetpsa.com/"
+  },
+  {
+    "category": "Platform",
+    "title": "ToolLic-EE",
+    "url": "https://toollic-ee.inetpsa.com/index.php"
+  },
+  {
+    "category": "Platform",
+    "title": "Homepage - Digital Me Portal",
+    "url": "https://digitalme.stellantis.com/esc"
+  },
+  {
+    "category": "Platform",
+    "title": "Wired interfaces referential",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01991_17_00258&v=vc"
+  },
+  {
+    "category": "Planning → SUIVI",
+    "title": "JSR Suvi",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01642_22_00995&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "CAPL",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=02016_12_02587&v=6.7"
+  },
+  {
+    "category": "Planning → SUIVI",
+    "title": "VDE_SUVI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_22_00611&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "DocInfo Groupe - Home",
+    "url": "http://docinfogroupe.inetpsa.com/ead/accueil_index.action"
+  },
+  {
+    "category": "Platform",
+    "title": "Microsoft 365 Copilot",
+    "url": "https://m365.cloud.microsoft/search/?auth=2&from=NoAccountOnStart"
+  },
+  {
+    "category": "Platform",
+    "title": "Input_analysis",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01642_25_01092&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "Calendra Directory Manager - for creating mail groups",
+    "url": "http://admin.messagerie.inetpsa.com/AdminMsg/index.jsp"
+  },
+  {
+    "category": "Platform",
+    "title": "EEAD_GROUND_LINK_GDLK_HMI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01991_20_00281&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "SSD_HMIF_GROUND_LINK_HMI",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=02017_19_02197&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "SSD CABIN COMFORT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=02017_19_02190&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "DNF PTC Driving",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01407_21_03331&v=vc"
+  },
+  {
+    "category": "VSM",
+    "title": "SSRS_VSM_CLIM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_01036&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "Brif_climate_PDF",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=02017_19_00584&v=vc"
+  },
+  {
+    "category": "BSI TestPlan",
+    "title": "AIRQ_PURIF_4C_FILE.",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01407_18_04219&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "EEAD SRM",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01991_19_00943&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "DGMP HMI PPT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00998_21_02562&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "SRS SSD For FOTA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=02014_19_00638&v=vc"
+  },
+  {
+    "category": "VSM",
+    "title": "FOTA",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_20_00375&v=12.11"
+  },
+  {
+    "category": "Platform",
+    "title": "OTA_DCross_v2_10.vsd",
+    "url": "https://shiftup.sharepoint.com/:u:/r/sites/FOTAworkgroup/_layouts/15/Doc.aspx?sourcedoc=%7B0BC29E04-1B3E-4B76-8836-DDC4B6D5298D%7D&file=OTA_DCross_v2_10.vsd&_DSL=1&action=default&mobileredirect=true"
+  },
+  {
+    "category": "VSM",
+    "title": "GATEWAY_PT",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_22_00201&v=vc"
+  },
+  {
+    "category": "BSI",
+    "title": "Writing Guide",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=00952_09_00540&v=vc"
+  },
+  {
+    "category": "VSM",
+    "title": "VSM Tests Automation Guide",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00515&v=vc"
+  },
+  {
+    "category": "VSM",
+    "title": "Appendix",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_24_00105&v=vc"
+  },
+  {
+    "category": "Platform",
+    "title": "PLM ISSUE & FAPI Tutorial",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_18_01142&v=vc"
+  },
+  {
+    "category": "VSM",
+    "title": "Tag User SCALEXIO",
+    "url": "http://docinfogroupe.inetpsa.com/ead/doc/document_view.action?ref=01272_19_00608&v=37.0"
+  },
+  {
+    "category": "Platform",
+    "title": "DocInfo Groupe - Search of documents",
+    "url": "http://docinfogroupe.inetpsa.com/ead/search/view.action"
+  },
+  {
+    "category": "Platform",
+    "title": "My IT Portal",
+    "url": "https://it-portal.psa-cloud.com/"
+  },
+  {
+    "category": "Platform",
+    "title": "CyborG Req's list.xlsx",
+    "url": "https://shiftup-my.sharepoint.com/:x:/r/personal/sd63697_inetpsa_com/_layouts/15/Doc.aspx?sourcedoc=%7B97703469-F241-40BA-8A74-3AA1E8006D46%7D&file=CyborG%20Req%27s%20list.xlsx&action=default&mobileredirect=true"
+  },
+  {
+    "category": "Platform",
+    "title": "Le Portail Groupe",
+    "url": "http://portail.inetpsa.com/"
+  },
+  {
+    "category": "Platform",
+    "title": "Identity Provider Manager",
+    "url": "https://idpm.stellantis.com/?sourceSystem=thehub&r=%2F"
+  },
+  {
+    "category": "Platform",
+    "title": "Mail - SANDEEP PANUGANTI (EXTERNAL) - Outlook",
+    "url": "https://outlook.office365.com/mail/AAMkADgzNGY3M2JlLWNiMWEtNGVjZS04YjVlLTIyOWQ0MzM3MDZjMQAuAAAAAADmFqXu0tZ5Q5SdnDv%2FoUTUAQDnTxN8hLwyRI46cAwJj4%2FOAAAACmSiAAA%3D"
+  },
+  {
+    "category": "Platform",
+    "title": "Live' in VFBL",
+    "url": "http://b885853/live'inVFBL/softs/show/841"
+  },
+  {
+    "category": "Platform",
+    "title": "Webbook",
+    "url": "http://webbook.inetpsa.com/"
   }
 ]
